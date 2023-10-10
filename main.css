@@ -1,3 +1,26 @@
-body {
-  background-color: peru;
+body{
+background-color: black;
+color: pink;
+}
+
+h2{
+  color: mediumseagreen;
+}
+
+
+
+
+#articleOne{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
+  border 1px dotted pink;
+}
+
+#articleTwo{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 4px solid aqua;
+}
+
+#articleThree{
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px dashed burlywood;
 }
